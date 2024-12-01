@@ -1,0 +1,69 @@
+{
+    "wineCategories": [
+      {
+        "criteria": "Type",
+        "category": "Red Wines",
+        "imageUrl": "assets/images/win2.jpg"
+      },
+      {
+        "criteria": "Type",
+        "category": "White Wines",
+        "imageUrl": "assets/images/white.jpg"
+      },
+      {
+        "criteria": "Type",
+        "category": "Rose Wines",
+        "imageUrl": "assets/images/wine4.jpg"
+      },
+      {
+        "criteria": "Type",
+        "category": "Old Wines",
+        "imageUrl": "assets/images/wine3.jpg"
+      },
+      {
+        "criteria": "Type",
+        "category": "Young Wines",
+        "imageUrl": "assets/images/velvet.png"
+      },
+      {
+        "criteria": "Type",
+        "category": "Sweet Wines",
+        "imageUrl": "assets/images/sweet.jpg"
+      }
+    ],
+    "wines": [
+      {
+        "name": "Ocone Bozzovich Beneventano Bianco IGT",
+        "type": "Red wine",
+        "price": "₹ 23,256,567",
+        "criticsScore": "90/100",
+        "availability": "Unavailable",
+        "imageUrl": "assets/images/old.jpg"
+      },
+      {
+        "name": "Ocone Bozzovich Beneventano Bianco IGT",
+        "type": "White wine",
+        "price": "₹ 21,256,567",
+        "criticsScore": "90/100",
+        "availability": "Unavailable",
+        "imageUrl": "assets/images/menage.jpg"
+      },
+      {
+        "name": "Ocone Bozzovich Beneventano Bianco IGT",
+        "type": "Rose wine",
+        "price": "₹ 26,256,567",
+        "criticsScore": "94/100",
+        "availability": "Unavailable",
+        "imageUrl": "assets/images/sweet2.jpg"
+      },
+      {
+        "name": "Ocone Bozzovich Beneventano Bianco IGT",
+        "type": "Red wine",
+        "price": "₹ 21,256,567",
+        "criticsScore": "94/100",
+        "availability": "Unavailable",
+        "imageUrl": "assets/images/straw.jpg"
+      }
+    ]
+  }
+  
